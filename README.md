@@ -2,7 +2,7 @@
 Automatically download wallpapers from Konachan.net
 
 # BEFORE RUNNING THE PROGRAM
-# YOU MUST INSTALL ALL LIBRARIES
+# install these libraries
 1. requests
 2. BeautifulSoup4
 3. RegEx
